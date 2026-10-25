@@ -9,7 +9,7 @@ def kali(a, b):
 
 def bagi(a, b):
     if b == 0:
-        return "Error: pembagi tidak boleh bernilai nol!"
+        return "Error: pembagi tidak boleh bernilai noll!"
     return a / b
 
 def cek_ganjil_genap(angka):

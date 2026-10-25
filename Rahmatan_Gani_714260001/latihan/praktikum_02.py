@@ -13,6 +13,6 @@ def cek_prima():
     if is_prima:
         print(f"{angka} adalah BILANGAN PRIMA")
     else:
-        print(f"{angka} BUKAN bilangan prima")
+        print(f"{angka} BUKAN bilangan prima!")
 
 cek_prima()
