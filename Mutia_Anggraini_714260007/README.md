@@ -1,8 +1,8 @@
 # Tugas_minggu2 - pelatihan pyhton lanjutan & github
 
-- **Nama**        : [Nama Lengkap]
-- **NPM**         : [NPM Mahasiswa]
-- **Kelompok**    : [Nomor Kelompok]
+- **Nama**        : Mutia Anggraini
+- **NPM**         : 714260007
+- **Kelompok**    : 6 the changcuters
 
 ## Daftar Berkas
 1. `praktikum_01.py` : Latihan Percabangan Bertingkat (Nested If)
