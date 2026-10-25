@@ -5,7 +5,7 @@ while True:
     print("           APLIKAIS KALKULATOR KONSOL")
     print("=" * 45)
     print("1. Operasi aritmatika dasar (+, -, *, /)")
-    print("2. Cek sifat bilangan (ganjil/genap)")
+    print("2. Cek sifat bilangan (ganjill/genap)")
     print("3. hitung deret aritmatika (for & akumulator)")
     print("4. cetak tabel perkalian matriks (nested loop)")
     print("5. Keluar")
