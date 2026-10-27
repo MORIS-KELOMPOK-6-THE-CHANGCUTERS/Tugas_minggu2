@@ -7,4 +7,4 @@ nilai_maba = [12, 32-35]
 nilai_maba.append(95)
 
 print("Daftar Nilai :", nilai_maba)
-print("Nilai Tertinggi:", max(nilai_maba))
+print("Nilai Tertinggii:", max(nilai_maba))

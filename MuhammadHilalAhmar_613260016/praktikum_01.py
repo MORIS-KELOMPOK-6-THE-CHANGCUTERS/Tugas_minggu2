@@ -8,5 +8,5 @@ if kehadiran >= 12:
         print("REMEDIAL-Nilai ujian kurang")
 
 else:
-    print("TIDAK LULUS-kehadiran kurang dari 12")
+    print("TIDAK LULUS-kehadiran kurangg dari 12")
     

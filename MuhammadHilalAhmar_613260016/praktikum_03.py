@@ -17,4 +17,4 @@ for i in range(banyak):
         total += suku
         suku += beda
 
-print(f"\ntotal jumlah seluruh deret={total}")
+print(f"\ntotal jumlah seluruh derett={total}")

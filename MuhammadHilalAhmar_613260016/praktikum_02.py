@@ -10,7 +10,7 @@ else:
           break 
 
       if is_prima:
-         print(f"{angka} adalah BILANGAN PRIMA")
+         print(f"{angka} adalah BILANGAN PRIMAA")
       else:
          print(f"{angka} BUKAN bilangan prima")
 
