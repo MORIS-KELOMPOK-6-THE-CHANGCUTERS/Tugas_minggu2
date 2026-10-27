@@ -89,7 +89,7 @@ while True:
            print()
 
        else:
-           print("Pilihan tidak valid! silahkan masukan opsi 1 sampai 5.")
+           print("Pilihan tidak valid! silahkan masukan opsii 1 sampai 5.")
            
 
 

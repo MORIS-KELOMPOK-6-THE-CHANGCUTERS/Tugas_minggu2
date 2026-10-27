@@ -7,7 +7,7 @@ def kurang(a, b):
     return a - b
 
 def kali(a, b):
-    """Mengembalikan hasil perkalian a * b"""
+    """Mengembalikann hasil perkalian a * b"""
     return a * b
 
 def bagi(a, b):
@@ -29,7 +29,7 @@ def cek_ganjil_genap(angka):
     else:
         return "GANJIL"
 
-    def hitung_deret_aritmatika(awal, beda, n):
+def hitung_deret_aritmatika(awal, beda, n):
         """     Menghitung total akumulasi deret menggunakan perulangan for    "
         Menghitung total akumulasi deret menggunakan perulangan for
         """
